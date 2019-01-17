@@ -4,7 +4,7 @@ In this page I want to share my working experience with TCS.
 # TCS Chennai
 I started working with TCS from 2016 in chennai,India. It's asia's largest IT park, which is totally madeup of steel.
 
-![vscode image](https://pbs.twimg.com/media/CPlB64pUkAAj_kS.jpg "TCS CHENNAI") 
+![vscode image](https://github.com/ppusap/My-Work-Experience/blob/master/20086-steel-structure-1.jpg?raw=true "TCS CHENNAI") 
 
 I can summarize my whole journey in TCS into two parts. 
 1. Training Period
